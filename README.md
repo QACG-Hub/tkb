@@ -1,6 +1,6 @@
 # TKB - Thời khóa biểu sinh viên
 
-Ứng dụng quản lý thời khóa biểu sinh viên, chạy hoàn toàn **offline** trên trình duyệt (không cần mạng, không dùng CDN).
+Ứng dụng quản lý thời khóa biểu sinh viên.
 
 ## Tính năng
 
